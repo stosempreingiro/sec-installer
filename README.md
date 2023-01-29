@@ -12,6 +12,7 @@ This is a very very simple shell script that automatically install some of the m
 * curl
 * pip3
 * gnupg2
+* golang
 * steghide
 * netcat
 * traceroute
