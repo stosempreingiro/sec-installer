@@ -34,7 +34,7 @@ This is a very very simple shell script that automatically install some of the m
 
 ## Installation script
 Download zip file and extract sec-installer.sh and run the script.
-Or:
+#####Or:
 ```
 sudo apt install git -y
 ```
