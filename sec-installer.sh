@@ -2,7 +2,7 @@ sudo apt update
 sudo apt install figlet -y
 clear -x
 figlet SEC TOOLS FOR DEBIAN
-echo -e "\e[32mDEBIAN AUTO INSTALL: nmap, netcat, metasploit-framework, zipalign, apksigner, apktool, net-tools, whois, dirb, gobuster, netdiscover, pip3, git, php, gnuradio, gqrx-sdr, aircrack-ng, curl, rar/unrar, codium, figlet, protonvpn-cli, mat2, gnupg2 and more\e[0m"
+echo -e "\e[1;33mDEBIAN AUTO INSTALL: nmap, netcat, metasploit-framework, zipalign, apksigner, apktool, net-tools, whois, dirb, gobuster, netdiscover, pip3, git, php, gnuradio, gqrx-sdr, aircrack-ng, curl, rar/unrar, codium, figlet, protonvpn-cli, mat2, gnupg2 and more\e[0m"
 sleep 1.5
 echo -e "\e[36mInstalling netcat\e[0m"
 sudo apt install netcat -y
