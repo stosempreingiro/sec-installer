@@ -3,7 +3,7 @@
 
 # SecTools-Installer by stosempreingiro
 This is a very very simple shell script that automatically install some of the most common cyber sec tools on Debian. 
-> Save time! Don't manual installation
+> Save time! Do not install manually!
 
 ## Tools that will be installed
 * git
