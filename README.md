@@ -25,6 +25,8 @@ This is a very very simple shell script that automatically install some of the m
 * apktool
 * apksigner
 * zipalign
+* android-sdk
+* default-jdk
 * aircrack-ng
 * mdk4
 * gnuradio
