@@ -23,7 +23,7 @@ sudo apt install nmap -y
 echo -e "\e[36mInstalling netdiscover\e[0m"
 sudo apt install netdiscover -y
 echo -e "\e[36mInstalling APKTOOL\e[0m"
-wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.7.0.jar > apktool.jar  && wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool && sudo mv apktool.jar apktool /usr/local/bin/ && sudo chmod +x /usr/local/bin/apktool.jar && sudo chmod +x /usr/local/bin/apktool && sudo rm -rf apktool*
+wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.7.0.jar && wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool && sudo mv apktool /usr/local/bin/ && sudo mv apktool_2.7.0.jar /usr/local/bin/apktool.jar && sudo chmod +x /usr/local/bin/apktool.jar && sudo chmod +x /usr/local/bin/apktool
 echo -e "\e[36mInstalling aircrack-ng\e[0m"
 sudo apt install aircrack-ng -y
 echo -e "\e[36mInstalling dirb\e[0m"
