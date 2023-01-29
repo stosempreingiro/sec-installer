@@ -27,7 +27,7 @@ This is a very very simple shell script that automatically install some of the m
 * gqrx-sdr
 * mat2
 * metasploit-framework
-* protonvon-cli and GUI
+* protonvpn-cli and GUI
 * rar/unrar
 * VS Codium
 * figlet (just for the initial graphic, you can remove it later if you want: sudo apt autoremove figlet)
