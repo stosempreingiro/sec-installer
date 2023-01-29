@@ -60,4 +60,5 @@ echo -e "\e[36mInstalling RAR/UNRAR\e[0m"
 cd /tmp
 wget https://www.rarlab.com/rar/rarlinux-x64-612.tar.gz
 tar -zxvf rarlinux-x64-612.tar.gz && cd rar && sudo cp -v rar unrar /usr/local/bin/
-
+echo -e "\e[36mInstalling wireshark\e[0m"
+sudo apt install wireshark -y
