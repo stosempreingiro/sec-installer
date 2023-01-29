@@ -2,7 +2,7 @@ sudo apt update
 sudo apt install figlet -y
 clear -x
 figlet SEC TOOLS FOR DEBIAN
-echo -e "\e[32mDEBIAN AUTO INSTALL: nmap, netcat, metasploit-framework, zipalign, apksigner, apktool, net-tools, whois, dirb, gobuster, netdiscover, pip3, git, php, gnuradio, gqrx-sdr, aircrack-ng, curl, rar/unrar, codium, figlet, protonvpn-cli, mat2, gnupg2\e[0m"
+echo -e "\e[32mDEBIAN AUTO INSTALL: nmap, netcat, metasploit-framework, zipalign, apksigner, apktool, net-tools, whois, dirb, gobuster, netdiscover, pip3, git, php, gnuradio, gqrx-sdr, aircrack-ng, curl, rar/unrar, codium, figlet, protonvpn-cli, mat2, gnupg2 and more\e[0m"
 sleep 1.5
 echo -e "\e[36mInstalling netcat\e[0m"
 sudo apt install netcat -y
@@ -48,6 +48,10 @@ echo -e "\e[36mInstalling zipalign\e[0m"
 sudo apt install zipalign -y
 echo -e "\e[36mInstalling apksigner\e[0m"
 sudo apt install apksigner -y
+echo -e "\e[36mInstalling android-sdk\e[0m"
+sudo apt install android-sdk -y
+echo -e "\e[36mInstalling default-jdk\e[0m"
+sudo apt install default-jdk -y
 echo -e "\e[36mInstalling gnuradio\e[0m"
 sudo apt install gnuradio -y
 echo -e "\e[36mInstalling gqrx\e[0m"
