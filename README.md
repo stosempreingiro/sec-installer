@@ -12,7 +12,9 @@ This is a very very simple shell script that automatically install some of the m
 * curl
 * pip3
 * gnupg2
+* steghide
 * netcat
+* traceroute
 * net-tools
 * whois
 * nmap
@@ -24,6 +26,7 @@ This is a very very simple shell script that automatically install some of the m
 * apksigner
 * zipalign
 * aircrack-ng
+* mdk4
 * gnuradio
 * gqrx-sdr
 * mat2
