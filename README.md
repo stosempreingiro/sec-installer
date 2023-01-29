@@ -43,7 +43,7 @@ then
 git clone https://github.com/stosempreingiro/sec-installer.git && cd sec-installer
 ```
 ```
-bash sec-installer.git
+bash sec-installer.sh
 ```
 Enter your root password and wait (maybe you have to accept something at the end of the script, like: y/n)
 
