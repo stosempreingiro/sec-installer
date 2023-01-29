@@ -1,4 +1,5 @@
 sudo apt update
+sudo apt-get update
 sudo apt install figlet -y
 clear -x
 figlet SEC TOOLS FOR DEBIAN
@@ -18,6 +19,9 @@ echo -e "\e[36mInstalling wget\e[0m"
 sudo apt install wget -y
 echo -e "\e[36mInstalling traceroute\e[0m"
 sudo apt install traceroute -y
+echo -e "\e[36mInstalling golang\e[0m"
+sudo apt install golang -y
+sudo apt install libnetfilter-queue-dev  -y
 echo -e "\e[36mInstalling net-tools\e[0m"
 sudo apt install net-tools -y
 echo -e "\e[36mInstalling nmap\e[0m"
