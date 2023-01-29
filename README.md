@@ -20,6 +20,7 @@ This is a very very simple shell script that automatically install some of the m
 * nmap
 * wireshark
 * netdiscover
+* hashcat
 * dirb
 * gobuster
 * apktool
