@@ -22,6 +22,8 @@ echo -e "\e[36mInstalling net-tools\e[0m"
 sudo apt install net-tools -y
 echo -e "\e[36mInstalling nmap\e[0m"
 sudo apt install nmap -y
+echo -e "\e[36mInstalling hashcat\e[0m"
+sudo apt install hashcat -y
 echo -e "\e[36mInstalling netdiscover\e[0m"
 sudo apt install netdiscover -y
 echo -e "\e[36mInstalling Steghide\e[0m"
