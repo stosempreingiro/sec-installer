@@ -16,6 +16,7 @@ This is a very very simple shell script that automatically install some of the m
 * net-tools
 * whois
 * nmap
+* wireshark
 * netdiscover
 * dirb
 * gobuster
