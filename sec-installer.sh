@@ -16,6 +16,8 @@ echo -e "\e[36mInstalling curl\e[0m"
 sudo apt install curl -y
 echo -e "\e[36mInstalling wget\e[0m"
 sudo apt install wget -y
+echo -e "\e[36mInstalling traceroute\e[0m"
+sudo apt install traceroute -y
 echo -e "\e[36mInstalling net-tools\e[0m"
 sudo apt install net-tools -y
 echo -e "\e[36mInstalling nmap\e[0m"
@@ -28,6 +30,8 @@ echo -e "\e[36mInstalling APKTOOL\e[0m"
 wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.7.0.jar && wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool && sudo mv apktool /usr/local/bin/ && sudo mv apktool_2.7.0.jar /usr/local/bin/apktool.jar && sudo chmod +x /usr/local/bin/apktool.jar && sudo chmod +x /usr/local/bin/apktool
 echo -e "\e[36mInstalling aircrack-ng\e[0m"
 sudo apt install aircrack-ng -y
+echo -e "\e[36mInstalling mdk4\e[0m"
+sudo apt install mdk4 -y
 echo -e "\e[36mInstalling dirb\e[0m"
 sudo apt install dirb -y
 echo -e "\e[36mInstalling gobuster\e[0m"
