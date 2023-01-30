@@ -38,7 +38,7 @@ This is a very very simple shell script that automatically install some of the m
 * protonvpn-cli and GUI
 * rar/unrar
 * VS Codium
-* figlet (just for the initial graphic, you can remove it later if you want: sudo apt autoremove figlet)
+* figlet (just for the initial graphic, you can remove it later if you want: ```sudo apt autoremove figlet```)
 
 ## Installation script
 Download zip file and extract sec-installer.sh and run the script.
